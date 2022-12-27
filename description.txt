@@ -7,3 +7,5 @@ step5: modify the tab_id in mdlxxxx_ui.R
 step6: modify the file name for mdlxxxx_server.R
 
 #更新相关内容
+
+v1.1
